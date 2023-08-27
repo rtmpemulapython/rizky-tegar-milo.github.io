@@ -1,0 +1,8 @@
+DAY - 1
+    basic html navbar without css
+    css#code
+
+    font-family: 'Montserrat', sans-serif; //sub-title
+    font-family: 'Noto Sans', sans-serif; //title
+    font-family: 'Poppins', sans-serif; //paraf
+
